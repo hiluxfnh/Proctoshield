@@ -16,8 +16,8 @@ You can install the required libraries using pip:
 
 ```bash
 pip install opencv-python numpy
-
-How it Works
+```
+## How it Works
 ------------
 - **Face and Eye Detection:** The program uses pre-trained Haar cascade classifiers provided by OpenCV to detect faces and eyes in the webcam feed.
   
