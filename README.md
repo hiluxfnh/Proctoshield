@@ -53,6 +53,6 @@ Usage
 
 License
 -------
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 Feel free to customize this README according to your specific project details and preferences!
